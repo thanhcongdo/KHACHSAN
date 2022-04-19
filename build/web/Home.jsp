@@ -54,6 +54,9 @@
         
         
         <div class="container">
+                    <h2>
+            Xin chào các bạn mình là đức đây
+        </h2>
             <div class="row row-cols-2 row-cols-lg-5 g-2 g-lg-3">
             
                 <c:forEach items="${listP}" var="k">
