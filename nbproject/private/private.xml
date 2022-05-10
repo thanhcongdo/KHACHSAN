@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
-    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>web/KhachSan.jsp</url>
+            <bookmark id="1">
+                <name/>
+                <line>114</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/src/java/dao/DAO.java</file>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/src/java/entity/Khachhang.java</file>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/src/java/control/SignUpControl.java</file>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/src/java/context/DBContext.java</file>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/src/java/entity/Account.java</file>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/web/Login.jsp</file>
-            <file>file:/C:/Users/ASUS/Desktop/KS/KHACHSAN/src/java/control/LoginControl.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
