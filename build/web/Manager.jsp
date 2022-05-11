@@ -26,7 +26,11 @@
                   <!-- ad == 1: quan li tai khoan cua user, KS -->
                   <c:if test="${sessionScope.acc.ADMIN == 1 }" >
                     <li class="nav-item">
-                       <a class="nav-link" href="#"> Manger Account </a>
+                       <a class="nav-link" href="TaiKhoanControl"> Manger Account </a>
+                    </li>
+                    
+                    <li class="nav-item">
+                       <a class="nav-link" href="KhachSanControl"> Manager Hotel </a>
                     </li>
                   </c:if>
                    
@@ -38,7 +42,7 @@
                     </li>
                       
                     <li class="nav-item">
-                       <a class="nav-link" href="#"> Manger Hotel </a>
+                       <a class="nav-link" href="LoaiPhongControl"> Manger Category </a>
                     </li> 
                   </c:if>
                     
